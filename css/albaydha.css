@@ -572,6 +572,17 @@ section .li-click div a span{
     width: 69.2%;
     background: var(--kabdi);
 }
+.tit{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.tit img{
+    width: 10px;
+}
+.tit h3{
+    color: var(--shade_of_orange);
+}
 .bg-box{
     width: 80vw;
     height: 100vh;
