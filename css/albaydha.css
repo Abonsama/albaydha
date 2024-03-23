@@ -576,12 +576,14 @@ section .li-click div a span{
     display: flex;
     flex-direction: row;
     align-items: center;
+    margin: 0 0 20px 0;
 }
 .tit img{
     width: 10px;
 }
 .tit h3{
     color: var(--shade_of_orange);
+    font-size: 30px;
 }
 .bg-box{
     width: 80vw;
