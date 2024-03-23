@@ -1,0 +1,12 @@
+<svg id="Icon_ionic-ios-arrow-dropdown" data-name="Icon ionic-ios-arrow-dropdown" xmlns="http://www.w3.org/2000/svg" width="62.055" height="62.055">
+    <defs>
+        <style>
+            .cls-1{fill:rgba(0,0,0,.3)}
+        </style>
+    </defs>
+    <path id="Path_916" data-name="Path 916" class="cls-1" d="M3.375 34.4A31.028 31.028 0 1 0 34.4 3.375 31.023 31.023 0 0 0 3.375 34.4zm49.584-18.554a26.243 26.243 0 1 1-37.113 37.113 26.243 26.243 0 1 1 37.113-37.113z" transform="translate(-3.375 -3.375)"/>
+    <g id="Group_1329" data-name="Group 1329" transform="translate(-3.375 -4.203)">
+        <path id="Path_915" data-name="Path 915" class="cls-1" d="M10.822 15.265a2.89 2.89 0 0 0 0 4.072L25.1 33.569a2.876 2.876 0 0 0 3.968.09l14.064-14.023a2.874 2.874 0 1 0-4.057-4.072l-12.083 11.9L14.894 15.25a2.877 2.877 0 0 0-4.072.015z" transform="translate(7.411 12.38)"/>
+        <path id="Path_917" data-name="Path 917" class="cls-1" d="M10.452 14.889a1.615 1.615 0 0 0 0 2.276l7.979 7.954a1.607 1.607 0 0 0 2.218.05l7.862-7.837a1.607 1.607 0 1 0-2.268-2.276L19.49 21.71l-6.762-6.829a1.608 1.608 0 0 0-2.276.008z" transform="translate(14.909 9.789)"/>
+    </g>
+</svg>
