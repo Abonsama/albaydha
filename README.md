@@ -4,6 +4,7 @@ website that uses alot of animation
 - [overview](#overview)
 - [style_guide](#style_guide)
 - [the_process](#the_process)
+- [bugs](#bugs)
 ## overview 
 
 ## style_guide
@@ -60,3 +61,12 @@ then i used normalize.css file to render all elements normally.
 only the first page and i'm using divide and conquer method.
 then setting the styles for it was not a big deal.
 
+## bugs
+- the main page scroll event.
+- sroll buttons in ul container 2
+- color of left links when changing the container
+- container 5 content must be finished
+- adjusting and fitting the container 6 content
+- finishing the container 7
+- changing the scroll buttons in all pages
+- makeing it responsive to all screens

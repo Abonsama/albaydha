@@ -2371,6 +2371,7 @@ hr{
     box-sizing: content-box;
     height: 0;
     overflow: visible;
+    width: 80vw;
 }
 .container-7 .bef-footer{
     width: 70vw;
